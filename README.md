@@ -1,5 +1,9 @@
-The code for single-cell analysis of Tbx3-derived progeny cells in the hypothalamus. 
-The code for single-cell analysis of neuronal loss or gain in the hypothalamus of Nkx2.1-Cre::Tbx3(f/f) mice.    
-Single cell data pre-processing
-Correlation analysis and visualisation
-Cell composition analysis
+# Hierarchical deployment of Tbx3 dictates the identity of hypothalamic  KNDy neurons to control puberty onset
+
+
+### Analysis Scripts
+
+* 1-5  Single cell data pre-processing
+* 6 Correlation-Analysis
+* 7 Cell composition analysis
+
